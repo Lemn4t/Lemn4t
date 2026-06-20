@@ -13,10 +13,6 @@
 
 <!-- START_LANGUAGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=cmake&logoColor=white&labelColor=111111" />
 </p>
 <!-- END_LANGUAGES -->
