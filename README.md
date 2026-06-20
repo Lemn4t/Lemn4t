@@ -31,3 +31,18 @@
 <!-- END_LANGUAGES -->
 
 <br />
+
+## <samp>▸</samp> STATS
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lemn4t&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=cccccc&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lemn4t&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=cccccc&exclude_repo=forks&hide=html,css,tex,roff" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/printf(%22system_%7C%7C_security%22)-39FF14?style=flat-square&labelColor=111111" alt="Footer" />
+</div>
+
+<br />
