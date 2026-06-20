@@ -9,6 +9,19 @@
 
 <br />
 
+```
+┌───────────────────────────────────────────────────┐
+│ LEMN4T                                            │
+├───────────────────────────────────────────────────┤
+│ PLATFORM │ Linux · Windows · Docker · Other       │
+│ HARDWARE │ Flipper Zero · Proxmark3 · Other       │
+│ FOCUS    │ NFC/RFID · Transit Cards · Access Ctrl │
+│ STACK    │ C · Python · Rust · Other              │
+└───────────────────────────────────────────────────┘
+```
+
+<br />
+
 ## <samp>▸</samp> LANGUAGES
 
 <!-- START_LANGUAGES -->
@@ -16,3 +29,5 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=111111" />
 </p>
 <!-- END_LANGUAGES -->
+
+<br />
