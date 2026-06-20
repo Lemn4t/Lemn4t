@@ -32,6 +32,47 @@
 
 <br />
 
+## <samp>▸</samp> DOMAIN
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/%F0%9F%93%A1_RFID_NFC-39FF14?style=for-the-badge&labelColor=111111&color=111111" alt="RFID/NFC" />
+        <br />
+        <sub>
+          Mifare Classic / Ultralight<br />
+          EMV / ISO 14443 / 15693<br />
+          Proxmark3 / Flipper Zero
+        </sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/%F0%9F%9A%87_TRANSIT-39FF14?style=for-the-badge&labelColor=111111&color=111111" alt="Transit" />
+        <br />
+        <sub>
+          Transport Cards RE<br />
+          Access Control Systems<br />
+          HID / iCLASS / DESFire
+        </sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+## <samp>▸</samp> TOOLCHAIN
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%90%AC_Flipper_Zero-111111?style=for-the-badge&logo=flipperzero&logoColor=39FF14&labelColor=111111" alt="Flipper Zero" />
+  <img src="https://img.shields.io/badge/Proxmark3-111111?style=for-the-badge&logo=probot&logoColor=39FF14&labelColor=111111" alt="Proxmark3" />
+  <img src="https://img.shields.io/badge/HackRF-111111?style=for-the-badge&logo=hackaday&logoColor=39FF14&labelColor=111111" alt="HackRF" />
+  <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=vscodium&logoColor=39FF14&labelColor=111111" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=111111" alt="Docker" />
+</p>
+
+<br />
+
 ## <samp>▸</samp> STATS
 
 <div align="center">
