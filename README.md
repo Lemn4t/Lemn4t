@@ -35,8 +35,12 @@
 ## <samp>▸</samp> STATS
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lemn4t&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=cccccc&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lemn4t&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=cccccc&exclude_repo=forks&hide=html,css,tex,roff" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lemn4t&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=cccccc&include_all_commits=true&count_private=true&rank_icon=percentile" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemn4t&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=cccccc&hide=html,css,roff&exclude_repo=" />
+  </a>
 </div>
 
 <br />
