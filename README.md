@@ -38,6 +38,12 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Lemn4t&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<br />
+
+## 💰 You can help me by Donating
+
+[![CloudTips](https://img.shields.io/badge/☁️_CloudTips-Donate-598BD4?style=for-the-badge)](https://pay.cloudtips.ru/p/639aca91) [![CryptoBot](https://img.shields.io/badge/🤖_CryptoBot-Donate-2AABEE?style=for-the-badge)](http://t.me/send?start=IVI4sBZRVpvI)
+
 ---
 
 <div align="center">
