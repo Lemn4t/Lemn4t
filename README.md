@@ -6,11 +6,7 @@
 
 # 💫 About Me:
 
-**🔐 Infosec Engineer**
-**🛡️ NFC · RFID · Access Control**
-**🐬 Flipper Zero DEV**
-**🚇 Transit security**
-**💻 Polyglot coder**
+**🔐 Infosec Engineer<br>🛡️ NFC · RFID · Access Control<br>🐬 Flipper Zero dev<br>🚇 Transit security<br>💻 Polyglot coder**
 
 <br />
 
